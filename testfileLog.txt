@@ -1,0 +1,11 @@
+Anti-virus began! Welcome!
+
+Folder to scan:
+testfile
+Virus signature:
+KittenVirusSign
+
+Scanning option:
+Normal Scan
+
+Results:

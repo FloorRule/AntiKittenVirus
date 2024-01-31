@@ -1,0 +1,17 @@
+﻿  prog.c
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(205): warning C4013: 'memmem' undefined; assuming extern returning int
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(205): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(24): warning C4100: 'argc': unreferenced formal parameter
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(48): warning C4189: 'logPath': local variable is initialized but not referenced
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(282): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(296): warning C4018: '<=': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(300): warning C4018: '>=': signed/unsigned mismatch
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(304): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(313): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(276): warning C4189: 'a': local variable is initialized but not referenced
+c:\users\משתמש\source\repos\anti kitten virus\anti kitten virus\prog.c(286): warning C4706: assignment within conditional expression
+  Anti Kitten Virus.vcxproj -> C:\Users\משתמש\source\repos\Anti Kitten Virus\Debug\Anti Kitten Virus.exe

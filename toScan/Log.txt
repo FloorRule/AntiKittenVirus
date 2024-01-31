@@ -1,0 +1,13 @@
+Anti-virus began! Welcome!
+
+Folder to scan:
+toScan
+Virus signature:
+KittenVirusSign
+
+Scanning option:
+Normal Scan
+
+Results:
+toScan\kitten_frog.jpg	Infected! 
+toScan\kitten_run.jpg	Clean 
